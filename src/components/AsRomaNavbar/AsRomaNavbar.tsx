@@ -12,8 +12,8 @@ import Accedi from "./Accedi";
 const AsRomaNavbar = () => {
   return (
     <div className="navbar-container">
+      <LogoClub />
       <div className="prima-riga">
-        <LogoClub />
         <Sponsor />
       </div>
 
@@ -30,6 +30,5 @@ const AsRomaNavbar = () => {
     </div>
   );
 };
-
 
 export default AsRomaNavbar;

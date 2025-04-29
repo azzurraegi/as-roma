@@ -22,8 +22,6 @@
 .scudetto-logo {
   position: absolute;
   left: 1rem;
-  top: 3.6rem;
-  transform: translateY(-50%);
 }
 
 .asroma-logo {
@@ -35,7 +33,6 @@
   display: flex;
   margin-left: 88rem;
   gap: 1rem;
-  display: flex;
   align-items: center;
 }
 
@@ -115,10 +112,6 @@
   width: 1rem;
 }
 
-.biglietti-shop {
-  display: flex;
-  gap: 1rem;
-}
 
 .botton-navbar {
   border: 1rem solid white;
