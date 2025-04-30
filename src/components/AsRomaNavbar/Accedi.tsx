@@ -1,4 +1,4 @@
-import frecciaIconaAccedi from "../../assets/FrecciaIconaAccedi.jpg";
+import frecciaIconaAccedi from "../../assets/FrecciaIconaAccedi.png";
 
 const Accedi = () => (
   <div className="contenitore-accedi">

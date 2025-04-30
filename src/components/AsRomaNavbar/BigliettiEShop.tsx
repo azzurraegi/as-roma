@@ -1,4 +1,4 @@
-import bigliettoIcona from "../../assets/BigliettoIcona.jpg";
+import bigliettoIcona from "../../assets/BigliettoIcona.png";
 import carrelloIcona from "../../assets/CarrelloIcona.png";
 
 const BigliettiEShop = () => (
