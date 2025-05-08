@@ -8,6 +8,7 @@ import LinguaSelettore from "./LinguaSelettore";
 import Ricerca from "./Ricerca";
 import BigliettiEShop from "./BigliettiEShop";
 import Accedi from "./Accedi";
+import Carosello from "./../Carosello";
 
 const AsRomaNavbar = () => {
   return (
@@ -27,6 +28,8 @@ const AsRomaNavbar = () => {
           <Accedi />
         </div>
       </div>
+
+      <Carosello />
     </div>
   );
 };
